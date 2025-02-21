@@ -24,7 +24,10 @@ Percobaan Kedua<br>
 ![Screenshot (524)](https://github.com/user-attachments/assets/388f179d-c132-40a0-8100-981de267310e)<br>
 ![Screenshot (525)](https://github.com/user-attachments/assets/8278063a-4a10-4f5c-9909-8716ccf26e97)<br>
 
+Analisis <br>
+Praktikum ini bertujuan untuk mendalami konfigurasi VLAN dan VTP pada switch dalam rangka meningkatkan efisiensi dan keamanan jaringan. Metode yang diterapkan mencakup perancangan topologi jaringan, konfigurasi dasar switch, pengaturan VLAN, serta penerapan VTP untuk menyinkronkan VLAN antar switch. Hasil percobaan menunjukkan bahwa konfigurasi VLAN berhasil dilakukan, perangkat yang tergabung dalam VLAN yang sama dapat saling berkomunikasi, dan VTP mempermudah distribusi VLAN. Meski demikian, tantangan seperti sinkronisasi konfigurasi perlu mendapat perhatian khusus. Secara keseluruhan, penggunaan VLAN dan VTP terbukti sangat efektif dalam pengelolaan jaringan, sedangkan penguatan keamanan pada switch penting dilakukan guna mencegah akses tidak sah.<br>
 
-
+Kesimpulan <br>
+Konfigurasi VLAN dan VTP pada switch terbukti efektif dalam meningkatkan efisiensi dan keamanan jaringan. VLAN memungkinkan segmentasi jaringan sehingga komunikasi antar perangkat lebih terstruktur, sementara VTP mempermudah manajemen VLAN dengan sinkronisasi otomatis antar switch. Meskipun demikian, tantangan seperti sinkronisasi konfigurasi perlu diperhatikan agar tidak terjadi inkonsistensi dalam jaringan. Selain itu, pengamanan switch harus diperkuat untuk mencegah akses yang tidak sah dan memastikan stabilitas jaringan. Dengan penerapan yang tepat, VLAN dan VTP dapat menjadi solusi yang optimal dalam pengelolaan infrastruktur jaringan.<br>
 
 
